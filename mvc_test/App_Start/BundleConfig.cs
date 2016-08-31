@@ -24,7 +24,7 @@ namespace mvc_test
                       "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      "~/Content/bootstrap_united.css",
                       "~/Content/site.css"));
         }
     }
